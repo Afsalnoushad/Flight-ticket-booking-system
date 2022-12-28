@@ -4,4 +4,4 @@
 * The whole site is split into five services Login,Registration,Contact Us,Booking and Payment.
 * There should be a method of keeping the information from unauthorized users.
 
-Technologies Used: HTML | CSS | BOOTSTRAP | JAVASCRIPT | GIT | SERVLETS | MVC | MYSQL | CORE JAVA
+Technologies Used: HTML | CSS | BOOTSTRAP | JAVASCRIPT | GIT | SERVLETS | MVC | MYSQL | CORE JAVA | ECLIPSE IDE
